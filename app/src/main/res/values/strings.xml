@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Control Vacuno</string>
+    <string name="tarjeta_profesional">Tarjeta Profesional</string>
+    <string name="nombre">Nombre</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="creds">Créditos</string>
+    <string name="nuevo">Nuevo Reporte</string>
+    <string name="antiguos">Reportes Antiguos</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="propietario">Propietario</string>
+    <string name="nombrefinca">Nombre de la Finca</string>
+    <string name="motivo">Motivo de Diagnostico</string>
+    <string name="metodos">Método de Diagnostico</string>
+    <string name="numanimal">Número de Animal</string>
+    <string name="fechaparto">Fecha de Último Parto</string>
+    <string name="condicion_corporal">Condición Corporal</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="fecha">Escoger Fecha</string>
+    <string name="obs">Observaciones y/o Tratamiento</string>
+    <string name="back">Pantalla Principal</string>
+    <string name="tocow">Agregar Vaca</string>
+    <string name="tofnc">Agregar Finca</string>
+    <string-array name="Profesiones_Arr">
+        <item>Seleccione Opción</item>
+        <item>Veterinario</item>
+        <item>Zootecnista</item>
+        <item>Veterinario Zootecnista</item>
+        <item>Otro</item>
+    </string-array>
+    <string-array name="Reproduccion">
+        <item>Tipo de Reproducción</item>
+        <item>Monta Natural</item>
+        <item>Inseminación Artificial</item>
+        <item>Transferencia de Embriones.</item>
+    </string-array>
+    <string-array name="produccion">
+        <item>Sistema de Producción</item>
+        <item>Lecheria Especializada</item>
+        <item>Doble Propósito</item>
+        <item>Cría</item>
+    </string-array>
+    <string-array name="motivos_array">
+        <item>Seleccionar Opción</item>
+        <item>Diagnostico de Gestación</item>
+        <item>Selección para programa de inseminación</item>
+        <item>Selección para programa de Embriones</item>
+        <item>Otros</item>
+    </string-array>
+    <string-array name="metodos_array">
+        <item>Seleccionar Opción</item>
+        <item>Palpación</item>
+        <item>Ecografía</item>
+    </string-array>
+    <string-array name="diagnostico">
+        <item>Diagnostico</item>
+        <item>Vacía</item>
+        <item>Preñada</item>
+    </string-array>
+    <string-array name="estado">
+        <item>Estado Productivo</item>
+        <item>Vaca en Producción</item>
+        <item>Vaca Seca</item>
+        <item>Novilla de Vientre</item>
+    </string-array>
+    <string-array name="numeros">
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>3</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="meses">
+        <item>mes</item>
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+    <string-array name="secado">
+        <item>Tiempo de Secado por Días en producción</item>
+        <item>Secado por Tiempo de Gestación</item>
+    </string-array>
+    <string name="title_activity_titlescreen">titlescreen</string>
+    <string name="dias_de_gestaci_n">Dias de Gestación</string>
+    <string name="a_adir_n_usuario">Añadir Usuario</string>
+    <string name="a_adir_n_finca">Añadir finca</string>
+    <string name="a_adir_n_vaca">Añadir  Vaca</string>
+    <string name="reportes">Reportes</string>
+    <string name="finca">Finca</string>
+</resources>
